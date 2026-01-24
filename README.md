@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Instagram](https://img.shields.io/badge/@r4duu_7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME_TAU)
+[![Instagram](https://img.shields.io/badge/@Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/r4duu_7)
 
 **r4duuu/r4duuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
