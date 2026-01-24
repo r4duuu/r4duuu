@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm Radu</h1>
+<h1 align="center">Hey there 👋 I'm C. Radu</h1>
 <h3 align="center">aka r4duu — passionate about programming & technology</h3>
 
 <p align="center">
@@ -18,10 +18,10 @@
 ## 🧠 About Me
 
 My name is **C. Radu**, also known online as **r4duu**.  
-I’m a passionate developer who enjoys writing clean, efficient code and continuously improving my skills.
+I’m a passionate developer who learns and improves for himself, driven by curiosity and genuine interest.
 
 I like understanding **how things work under the hood**, not just making them work.  
-Currently focusing on building a solid foundation in both **software** and **web development**.
+Currently focusing on building a solid foundation in both **discord** and **web development**.
 
 ---
 
@@ -41,15 +41,14 @@ Currently focusing on building a solid foundation in both **software** and **web
 ## 🚀 What I’m Doing
 
 - 🔹 Learning and experimenting with new programming concepts  
-- 🔹 Building personal projects to improve my skills  
-- 🔹 Exploring both backend and frontend development  
+- 🔹 Building personal projects to improve my skills   
 - 🔹 Writing code daily and improving step by step  
 
 ---
 
 ## 📈 Goals
 
-- 🧩 Master core programming concepts  
+- 🧩 Become a good graphic designer UI/UX 
 - 🧩 Build real-world projects  
 - 🧩 Become a well-rounded software developer  
 - 🧩 Learn modern technologies and best practices  
