@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-[![Instagram](https://img.shields.io/badge/@Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/r4duu_7)
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r4duu_7)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/BUsM6tS2Rw)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/r4duuu)
+
 
 **r4duuu/r4duuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
