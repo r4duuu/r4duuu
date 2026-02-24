@@ -1,5 +1,5 @@
-<h1 align="center">Hey there 👋 I'm C. Radu</h1>
-<h3 align="center">aka r4duu — passionate about programming & technology</h3>
+<h1 align="center">Hey there! Im Radu</h1>
+<h3 align="center">aka r4duu — learning new things everyday</h3>
 
 <p align="center">
   <a href="https://instagram.com/r4duu_7">
